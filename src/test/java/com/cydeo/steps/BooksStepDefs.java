@@ -20,7 +20,6 @@ public class BooksStepDefs {
     public void the_user_navigates_to_page(String moduleName) {
         new DashBoardPage().navigateModule(moduleName);
 
-
     }
 
 
